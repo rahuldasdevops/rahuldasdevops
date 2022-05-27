@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rahuldasdevops)
+
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=rahuldasdevops&row=1)](https://github.com/ryo-ma/github-profile-trophy)
